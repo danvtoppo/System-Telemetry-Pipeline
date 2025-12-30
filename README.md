@@ -1,4 +1,4 @@
-# System-Telemetry-Pipeline# 
+# System-Telemetry-Pipeline
 
 An ETL pipeline that captures real-time hardware telemetry and streams it to a **Neon PostgreSQL** cloud database.
 
